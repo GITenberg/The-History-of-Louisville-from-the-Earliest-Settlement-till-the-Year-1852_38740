@@ -10,6 +10,8 @@ creator:
     gutenberg_agent_id: '39636'
     url: http://www.gutenberg.org/2009/agents/39636
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/38740#The-History-of-Louisville-from-the-Earliest-Settlement-till-the-Year-1852
 gutenberg_issued: '2012-02-02'
 gutenberg_type: Text
 identifiers:
